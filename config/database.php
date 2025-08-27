@@ -32,7 +32,8 @@ return [
     'connections' => [
 
         'null' => [
-            'driver' => 'null',
+            'driver' => 'sqlite',
+            'database' => ':memory:',
         ],
 
         'sqlite' => [

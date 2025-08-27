@@ -17,11 +17,7 @@
       "size": "basic"
     }
   },
-  "addons": [
-    {
-      "plan": "heroku-postgresql:essential-0"
-    }
-  ],
+  "addons": [],
   "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "false",
@@ -29,9 +25,8 @@
       "generator": "secret"
     },
     "LOG_CHANNEL": "stderr",
-    "LOG_LEVEL": "info"
+    "LOG_LEVEL": "info",
+    "DB_CONNECTION": "null"
   },
-  "scripts": {
-    "postdeploy": "php artisan migrate --force"
-  }
+  "scripts": {}
 }
