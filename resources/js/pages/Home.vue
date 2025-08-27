@@ -101,7 +101,7 @@
               <!-- Paint Splodge Background -->
               <div ref="paintSplodge" class="absolute inset-0 flex items-center justify-center pointer-events-none -z-10">
                 <img 
-                  src="/storage/images/effects/sm_green.png" 
+                  src="/images/effects/sm_green.png" 
                   alt="" 
                   class="w-full max-w-md h-auto object-contain mix-blend-multiply opacity-40"
                 />
@@ -158,7 +158,7 @@
             <div ref="weddingItem1" class="group text-center opacity-0">
               <div class="bg-slate-50 aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
                 <img 
-                  src="/storage/images/valencia/sketch.jpg" 
+                  src="/images/valencia/sketch.jpg" 
                   alt="Wedding invitations" 
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -171,7 +171,7 @@
             <div ref="weddingItem2" class="group text-center opacity-0">
               <div class="bg-slate-50 aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
                 <img 
-                  src="/storage/images/carousel/table.jpg" 
+                  src="/images/carousel/table.jpg" 
                   alt="Table numbers" 
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -184,7 +184,7 @@
             <div ref="weddingItem3" class="group text-center opacity-0">
               <div class="bg-slate-50 aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
                 <img 
-                  src="/storage/images/carousel/namecard.jpg" 
+                  src="/images/carousel/namecard.jpg" 
                   alt="Place cards" 
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -197,7 +197,7 @@
             <div ref="weddingItem4" class="group text-center opacity-0">
               <div class="bg-slate-50 aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
                 <img 
-                  src="/storage/images/carousel/cake.jpg" 
+                  src="/images/carousel/cake.jpg" 
                   alt="Menu cards" 
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -210,7 +210,7 @@
             <div ref="weddingItem5" class="group text-center opacity-0">
               <div class="bg-slate-50 aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
                 <img 
-                  src="/storage/images/carousel/sm_tables.jpeg" 
+                  src="/images/carousel/sm_tables.jpeg" 
                   alt="Seating plans" 
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -223,7 +223,7 @@
             <div ref="weddingItem6" class="group text-center opacity-0">
               <div class="bg-slate-50 aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
                 <img 
-                  src="/storage/images/carousel/welcome.jpeg" 
+                  src="/images/carousel/welcome.jpeg" 
                   alt="Welcome signs" 
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -236,7 +236,7 @@
             <div ref="weddingItem7" class="group text-center opacity-0">
               <div class="bg-slate-50 aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
                 <img 
-                  src="/storage/images/carousel/sm_plate.jpg" 
+                  src="/images/carousel/sm_plate.jpg" 
                   alt="Wedding placemats" 
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -249,7 +249,7 @@
             <div ref="weddingItem8" class="group text-center opacity-0">
               <div class="bg-slate-50 aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
                 <img 
-                  src="/storage/images/valencia/sm_placemats.jpeg" 
+                  src="/images/valencia/sm_placemats.jpeg" 
                   alt="Wedding programs" 
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -283,7 +283,7 @@
           <div ref="muralItem1" class="group text-center opacity-0">
             <div class="bg-white aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
               <img 
-                src="/storage/images/murals/sm_361e793e-9404-4306-9adf-926b6731df67_rw_1200.jpg" 
+                src="/images/murals/sm_361e793e-9404-4306-9adf-926b6731df67_rw_1200.jpg" 
                 alt="Restaurant watercolor mural" 
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -296,7 +296,7 @@
           <div ref="muralItem2" class="group text-center opacity-0">
             <div class="bg-white aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
               <img 
-                src="/storage/images/murals/39e233c0-3901-481a-a42b-d5841a7fbf6b_rw_1200.jpg" 
+                src="/images/murals/39e233c0-3901-481a-a42b-d5841a7fbf6b_rw_1200.jpg" 
                 alt="Children's room watercolor mural" 
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -309,7 +309,7 @@
           <div ref="muralItem3" class="group text-center opacity-0">
             <div class="bg-white aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
               <img 
-                src="/storage/images/murals/sm_64873ffb-9139-4a11-81f0-937bb730045c_rw_3840.jpg" 
+                src="/images/murals/sm_64873ffb-9139-4a11-81f0-937bb730045c_rw_3840.jpg" 
                 alt="Large scale watercolor mural" 
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -322,7 +322,7 @@
           <div ref="muralItem4" class="group text-center opacity-0">
             <div class="bg-white aspect-[3/4] rounded-lg overflow-hidden mb-4 group-hover:shadow-md transition-shadow duration-300">
               <img 
-                src="/storage/images/murals/9a2ac34a-a8da-431e-a738-3f8a96806fac_rw_1200.jpg" 
+                src="/images/murals/9a2ac34a-a8da-431e-a738-3f8a96806fac_rw_1200.jpg" 
                 alt="Bespoke watercolor mural design" 
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -443,7 +443,7 @@
           <div ref="artistItem1" class="group text-center opacity-0">
             <div class="aspect-square rounded-full overflow-hidden mb-4 mx-auto max-w-48">
               <img 
-                src="/storage/images/artists/5f7123ee-9de1-4f7a-97ca-64b13cbd13c9.jpg" 
+                src="/images/artists/5f7123ee-9de1-4f7a-97ca-64b13cbd13c9.jpg" 
                 alt="Watercolor artist" 
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -454,7 +454,7 @@
           <div ref="artistItem2" class="group text-center opacity-0">
             <div class="aspect-square rounded-full overflow-hidden mb-4 mx-auto max-w-48">
               <img 
-                src="/storage/images/artists/sm_IMG_1350.jpeg" 
+                src="/images/artists/sm_IMG_1350.jpeg" 
                 alt="Watercolor artist at work" 
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -465,7 +465,7 @@
           <div ref="artistItem3" class="group text-center opacity-0">
             <div class="aspect-square rounded-full overflow-hidden mb-4 mx-auto max-w-48">
               <img 
-                src="/storage/images/artists/sm_IMG_3799.jpeg" 
+                src="/images/artists/sm_IMG_3799.jpeg" 
                 alt="Watercolor painting process" 
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -476,7 +476,7 @@
           <div ref="artistItem4" class="group text-center opacity-0">
             <div class="aspect-square rounded-full overflow-hidden mb-4 mx-auto max-w-48">
               <img 
-                src="/storage/images/artists/sm_Screenshot_2025-08-23_at_11.52.07.jpg" 
+                src="/images/artists/sm_Screenshot_2025-08-23_at_11.52.07.jpg" 
                 alt="Watercolor workspace" 
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -675,10 +675,10 @@ const discoveredImages = Object.values(
 const allCarouselImages: string[] = discoveredImages.length
   ? discoveredImages
   : [
-      '/storage/images/valencia/sm_placemats.jpeg',
-      '/storage/images/valencia/a3poster.jpg',
-      '/storage/images/valencia/sm_tables.jpeg',
-      '/storage/images/valencia/sketch.jpg'
+      '/images/valencia/sm_placemats.jpeg',
+      '/images/valencia/a3poster.jpg',
+      '/images/valencia/sm_tables.jpeg',
+      '/images/valencia/sketch.jpg'
     ]
 
 const leftImages = ref<string[]>([])
@@ -695,17 +695,17 @@ if (allCarouselImages.length) {
 
 // Gallery images - autoloaded from gallery folder
 const galleryImages = ref([
-  { src: '/storage/images/gallery/sm_IMG_7005.jpg', alt: 'Watercolor artwork 1' },
-  { src: '/storage/images/gallery/sm_IMG_7042.jpg', alt: 'Watercolor artwork 2' },
-  { src: '/storage/images/gallery/sm_IMG_7068.jpg', alt: 'Watercolor artwork 3' },
-  { src: '/storage/images/gallery/sm_IMG_7078.jpg', alt: 'Watercolor artwork 4' },
-  { src: '/storage/images/gallery/sm_IMG_7098.jpg', alt: 'Watercolor artwork 5' },
-  { src: '/storage/images/gallery/sm_IMG_7108.jpg', alt: 'Watercolor artwork 6' },
-  { src: '/storage/images/gallery/sm_IMG_7111.jpg', alt: 'Watercolor artwork 7' },
-  { src: '/storage/images/gallery/sm_IMG_7115.jpg', alt: 'Watercolor artwork 8' },
-  { src: '/storage/images/gallery/sm_IMG_7117.jpg', alt: 'Watercolor artwork 9' },
-  { src: '/storage/images/gallery/sm_IMG_7123.jpg', alt: 'Watercolor artwork 10' },
-  { src: '/storage/images/gallery/sm_IMG_7133.jpg', alt: 'Watercolor artwork 11' }
+  { src: '/images/gallery/sm_IMG_7005.jpg', alt: 'Watercolor artwork 1' },
+  { src: '/images/gallery/sm_IMG_7042.jpg', alt: 'Watercolor artwork 2' },
+  { src: '/images/gallery/sm_IMG_7068.jpg', alt: 'Watercolor artwork 3' },
+  { src: '/images/gallery/sm_IMG_7078.jpg', alt: 'Watercolor artwork 4' },
+  { src: '/images/gallery/sm_IMG_7098.jpg', alt: 'Watercolor artwork 5' },
+  { src: '/images/gallery/sm_IMG_7108.jpg', alt: 'Watercolor artwork 6' },
+  { src: '/images/gallery/sm_IMG_7111.jpg', alt: 'Watercolor artwork 7' },
+  { src: '/images/gallery/sm_IMG_7115.jpg', alt: 'Watercolor artwork 8' },
+  { src: '/images/gallery/sm_IMG_7117.jpg', alt: 'Watercolor artwork 9' },
+  { src: '/images/gallery/sm_IMG_7123.jpg', alt: 'Watercolor artwork 10' },
+  { src: '/images/gallery/sm_IMG_7133.jpg', alt: 'Watercolor artwork 11' }
 ])
 
 

@@ -1,0 +1,37 @@
+{
+  "name": "Watercoloured",
+  "description": "Bespoke watercolor artwork website built with Laravel and Vue.js",
+  "keywords": ["laravel", "vue", "inertia", "watercolor", "art"],
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "heroku/php"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql:essential-0"
+    }
+  ],
+  "env": {
+    "APP_ENV": "production",
+    "APP_DEBUG": "false",
+    "APP_KEY": {
+      "generator": "secret"
+    },
+    "LOG_CHANNEL": "stderr",
+    "LOG_LEVEL": "info"
+  },
+  "scripts": {
+    "postdeploy": "php artisan migrate --force"
+  }
+}
