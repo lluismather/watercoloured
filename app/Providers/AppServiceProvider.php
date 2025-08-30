@@ -24,10 +24,5 @@ class AppServiceProvider extends ServiceProvider
         if (app()->environment('production')) {
             URL::forceScheme('https');
         }
-        
-        // Explicitly set Inertia root view
-        if (class_exists(\Inertia\Inertia::class)) {
-            \Inertia\Inertia::setRootView('app');
-        }
     }
 }
